@@ -2,7 +2,7 @@
 
 # DSC 106 Project 1: Protein Bar Value
 
-This project was selected for the Best Project 1 Awards in DSC 106 at UC San Diego.
+This project was featured in the “Best Project 1 Awards” slides for DSC 106 at UC San Diego.
 
 Does cheaper protein always come with more sugar?
 
